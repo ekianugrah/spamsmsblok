@@ -1,4 +1,4 @@
-# spamsmsblock
+# spamsmsblok
 Unlimited,gunakan dengan bijak !
 
 # Tutorial
