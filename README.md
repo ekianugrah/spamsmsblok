@@ -5,6 +5,6 @@ Unlimited,gunakan dengan bijak !
 ```shell
 $ pkg update
 $ apt-get install python
-$ cd spamsmspizzahut
+$ cd spamsmsblok
 $ pip install -r requirements.txt
 $ python2 spam.py  
